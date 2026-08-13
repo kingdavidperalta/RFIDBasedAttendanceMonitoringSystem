@@ -1,6 +1,6 @@
 # RFID Based Attendance Monitoring System
 
-A desktop application developed using **C# Windows Forms**, **Dapper**, and **Microsoft SQL Server** for managing employee attendance through RFID technology. This project was developed as a freelance application to automate attendance tracking, employee management, shift scheduling, and attendance reporting.
+A desktop application developed using **C# Windows Forms**, **Dapper**, and **Microsoft SQL Server** for managing employee attendance through RFID technology. This project was developed to automate attendance tracking, employee management, shift scheduling, and attendance reporting.
 
 ![image alt](https://github.com/kingdavidperalta/RFIDBasedAttendanceMonitoringSystem/blob/307b9303338e60b6e4e9507a40c5851aa88a7bd9/ams_dashboard.png)
 
